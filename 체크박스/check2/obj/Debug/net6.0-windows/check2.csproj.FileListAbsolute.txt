@@ -1,0 +1,17 @@
+D:\c--pratice\체크박스\check2\bin\Debug\net6.0-windows\check2.exe
+D:\c--pratice\체크박스\check2\bin\Debug\net6.0-windows\check2.deps.json
+D:\c--pratice\체크박스\check2\bin\Debug\net6.0-windows\check2.runtimeconfig.json
+D:\c--pratice\체크박스\check2\bin\Debug\net6.0-windows\check2.dll
+D:\c--pratice\체크박스\check2\bin\Debug\net6.0-windows\check2.pdb
+D:\c--pratice\체크박스\check2\obj\Debug\net6.0-windows\check2.csproj.AssemblyReference.cache
+D:\c--pratice\체크박스\check2\obj\Debug\net6.0-windows\check2.Form1.resources
+D:\c--pratice\체크박스\check2\obj\Debug\net6.0-windows\check2.csproj.GenerateResource.cache
+D:\c--pratice\체크박스\check2\obj\Debug\net6.0-windows\check2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c--pratice\체크박스\check2\obj\Debug\net6.0-windows\check2.AssemblyInfoInputs.cache
+D:\c--pratice\체크박스\check2\obj\Debug\net6.0-windows\check2.AssemblyInfo.cs
+D:\c--pratice\체크박스\check2\obj\Debug\net6.0-windows\check2.csproj.CoreCompileInputs.cache
+D:\c--pratice\체크박스\check2\obj\Debug\net6.0-windows\check2.dll
+D:\c--pratice\체크박스\check2\obj\Debug\net6.0-windows\refint\check2.dll
+D:\c--pratice\체크박스\check2\obj\Debug\net6.0-windows\check2.pdb
+D:\c--pratice\체크박스\check2\obj\Debug\net6.0-windows\check2.genruntimeconfig.cache
+D:\c--pratice\체크박스\check2\obj\Debug\net6.0-windows\ref\check2.dll

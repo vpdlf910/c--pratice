@@ -1,0 +1,17 @@
+C:\Users\rnrms\source\repos\formpra1\formpra1\bin\Debug\net6.0-windows\formpra1.exe
+C:\Users\rnrms\source\repos\formpra1\formpra1\bin\Debug\net6.0-windows\formpra1.deps.json
+C:\Users\rnrms\source\repos\formpra1\formpra1\bin\Debug\net6.0-windows\formpra1.runtimeconfig.json
+C:\Users\rnrms\source\repos\formpra1\formpra1\bin\Debug\net6.0-windows\formpra1.dll
+C:\Users\rnrms\source\repos\formpra1\formpra1\bin\Debug\net6.0-windows\formpra1.pdb
+C:\Users\rnrms\source\repos\formpra1\formpra1\obj\Debug\net6.0-windows\formpra1.csproj.AssemblyReference.cache
+C:\Users\rnrms\source\repos\formpra1\formpra1\obj\Debug\net6.0-windows\formpra1.Form1.resources
+C:\Users\rnrms\source\repos\formpra1\formpra1\obj\Debug\net6.0-windows\formpra1.csproj.GenerateResource.cache
+C:\Users\rnrms\source\repos\formpra1\formpra1\obj\Debug\net6.0-windows\formpra1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnrms\source\repos\formpra1\formpra1\obj\Debug\net6.0-windows\formpra1.AssemblyInfoInputs.cache
+C:\Users\rnrms\source\repos\formpra1\formpra1\obj\Debug\net6.0-windows\formpra1.AssemblyInfo.cs
+C:\Users\rnrms\source\repos\formpra1\formpra1\obj\Debug\net6.0-windows\formpra1.csproj.CoreCompileInputs.cache
+C:\Users\rnrms\source\repos\formpra1\formpra1\obj\Debug\net6.0-windows\formpra1.dll
+C:\Users\rnrms\source\repos\formpra1\formpra1\obj\Debug\net6.0-windows\refint\formpra1.dll
+C:\Users\rnrms\source\repos\formpra1\formpra1\obj\Debug\net6.0-windows\formpra1.pdb
+C:\Users\rnrms\source\repos\formpra1\formpra1\obj\Debug\net6.0-windows\formpra1.genruntimeconfig.cache
+C:\Users\rnrms\source\repos\formpra1\formpra1\obj\Debug\net6.0-windows\ref\formpra1.dll

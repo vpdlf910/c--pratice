@@ -1,0 +1,15 @@
+C:\Users\rnrms\source\repos\문법연습\문법연습\obj\Debug\net6.0\문법연습.csproj.AssemblyReference.cache
+C:\Users\rnrms\source\repos\문법연습\문법연습\obj\Debug\net6.0\문법연습.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnrms\source\repos\문법연습\문법연습\obj\Debug\net6.0\문법연습.AssemblyInfoInputs.cache
+C:\Users\rnrms\source\repos\문법연습\문법연습\obj\Debug\net6.0\문법연습.AssemblyInfo.cs
+C:\Users\rnrms\source\repos\문법연습\문법연습\obj\Debug\net6.0\문법연습.csproj.CoreCompileInputs.cache
+C:\Users\rnrms\source\repos\문법연습\문법연습\bin\Debug\net6.0\문법연습.exe
+C:\Users\rnrms\source\repos\문법연습\문법연습\bin\Debug\net6.0\문법연습.deps.json
+C:\Users\rnrms\source\repos\문법연습\문법연습\bin\Debug\net6.0\문법연습.runtimeconfig.json
+C:\Users\rnrms\source\repos\문법연습\문법연습\bin\Debug\net6.0\문법연습.dll
+C:\Users\rnrms\source\repos\문법연습\문법연습\bin\Debug\net6.0\문법연습.pdb
+C:\Users\rnrms\source\repos\문법연습\문법연습\obj\Debug\net6.0\문법연습.dll
+C:\Users\rnrms\source\repos\문법연습\문법연습\obj\Debug\net6.0\refint\문법연습.dll
+C:\Users\rnrms\source\repos\문법연습\문법연습\obj\Debug\net6.0\문법연습.pdb
+C:\Users\rnrms\source\repos\문법연습\문법연습\obj\Debug\net6.0\문법연습.genruntimeconfig.cache
+C:\Users\rnrms\source\repos\문법연습\문법연습\obj\Debug\net6.0\ref\문법연습.dll

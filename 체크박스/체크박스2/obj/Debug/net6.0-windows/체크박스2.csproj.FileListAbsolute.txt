@@ -1,0 +1,17 @@
+D:\c--pratice\체크박스\체크박스2\bin\Debug\net6.0-windows\체크박스2.exe
+D:\c--pratice\체크박스\체크박스2\bin\Debug\net6.0-windows\체크박스2.deps.json
+D:\c--pratice\체크박스\체크박스2\bin\Debug\net6.0-windows\체크박스2.runtimeconfig.json
+D:\c--pratice\체크박스\체크박스2\bin\Debug\net6.0-windows\체크박스2.dll
+D:\c--pratice\체크박스\체크박스2\bin\Debug\net6.0-windows\체크박스2.pdb
+D:\c--pratice\체크박스\체크박스2\obj\Debug\net6.0-windows\체크박스2.csproj.AssemblyReference.cache
+D:\c--pratice\체크박스\체크박스2\obj\Debug\net6.0-windows\체크박스2.Form1.resources
+D:\c--pratice\체크박스\체크박스2\obj\Debug\net6.0-windows\체크박스2.csproj.GenerateResource.cache
+D:\c--pratice\체크박스\체크박스2\obj\Debug\net6.0-windows\체크박스2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c--pratice\체크박스\체크박스2\obj\Debug\net6.0-windows\체크박스2.AssemblyInfoInputs.cache
+D:\c--pratice\체크박스\체크박스2\obj\Debug\net6.0-windows\체크박스2.AssemblyInfo.cs
+D:\c--pratice\체크박스\체크박스2\obj\Debug\net6.0-windows\체크박스2.csproj.CoreCompileInputs.cache
+D:\c--pratice\체크박스\체크박스2\obj\Debug\net6.0-windows\체크박스2.dll
+D:\c--pratice\체크박스\체크박스2\obj\Debug\net6.0-windows\refint\체크박스2.dll
+D:\c--pratice\체크박스\체크박스2\obj\Debug\net6.0-windows\체크박스2.pdb
+D:\c--pratice\체크박스\체크박스2\obj\Debug\net6.0-windows\체크박스2.genruntimeconfig.cache
+D:\c--pratice\체크박스\체크박스2\obj\Debug\net6.0-windows\ref\체크박스2.dll

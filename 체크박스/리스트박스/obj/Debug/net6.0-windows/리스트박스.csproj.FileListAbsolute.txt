@@ -1,0 +1,17 @@
+D:\c--pratice\체크박스\리스트박스\bin\Debug\net6.0-windows\리스트박스.exe
+D:\c--pratice\체크박스\리스트박스\bin\Debug\net6.0-windows\리스트박스.deps.json
+D:\c--pratice\체크박스\리스트박스\bin\Debug\net6.0-windows\리스트박스.runtimeconfig.json
+D:\c--pratice\체크박스\리스트박스\bin\Debug\net6.0-windows\리스트박스.dll
+D:\c--pratice\체크박스\리스트박스\bin\Debug\net6.0-windows\리스트박스.pdb
+D:\c--pratice\체크박스\리스트박스\obj\Debug\net6.0-windows\리스트박스.csproj.AssemblyReference.cache
+D:\c--pratice\체크박스\리스트박스\obj\Debug\net6.0-windows\리스트박스.Form1.resources
+D:\c--pratice\체크박스\리스트박스\obj\Debug\net6.0-windows\리스트박스.csproj.GenerateResource.cache
+D:\c--pratice\체크박스\리스트박스\obj\Debug\net6.0-windows\리스트박스.GeneratedMSBuildEditorConfig.editorconfig
+D:\c--pratice\체크박스\리스트박스\obj\Debug\net6.0-windows\리스트박스.AssemblyInfoInputs.cache
+D:\c--pratice\체크박스\리스트박스\obj\Debug\net6.0-windows\리스트박스.AssemblyInfo.cs
+D:\c--pratice\체크박스\리스트박스\obj\Debug\net6.0-windows\리스트박스.csproj.CoreCompileInputs.cache
+D:\c--pratice\체크박스\리스트박스\obj\Debug\net6.0-windows\리스트박스.dll
+D:\c--pratice\체크박스\리스트박스\obj\Debug\net6.0-windows\refint\리스트박스.dll
+D:\c--pratice\체크박스\리스트박스\obj\Debug\net6.0-windows\리스트박스.pdb
+D:\c--pratice\체크박스\리스트박스\obj\Debug\net6.0-windows\리스트박스.genruntimeconfig.cache
+D:\c--pratice\체크박스\리스트박스\obj\Debug\net6.0-windows\ref\리스트박스.dll

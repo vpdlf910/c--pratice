@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "코딩의 기술/1.0.0": {
+        "runtime": {
+          "코딩의 기술.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "코딩의 기술/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
